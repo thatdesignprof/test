@@ -1,0 +1,43 @@
+body {
+    background-color: #7FB3D5;
+}
+
+h1 {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.ingredients {
+    background-color: white;
+    padding: 40px;
+    border-color: black;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 20px;
+    width: 40%;
+}
+
+.customhead {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.openimg {
+    width:50%;
+}
+
+.recipeopen {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+p {
+    font-size: 22px;
+}
+
+.openimg {
+    transform:rotate(90deg);
+}
